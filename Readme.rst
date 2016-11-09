@@ -4,7 +4,13 @@ WalkSATDemo
 
 CSC 4444 Homework 3 #3.
 
-Authors: Matthew Wolff & Kristen Barrett
+Author: Matthew Wolff
+
+Dependencies
+------------
+Python >= 3.4 is required to run this project. Be sure your system supports 
+that version. You may have to use a different ``python`` command to target the 
+correct python installation.
 
 Usage
 -----
