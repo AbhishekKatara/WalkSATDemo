@@ -62,9 +62,6 @@ def main():
         print("failure")
     else:
         print(result)
-    
-    # Print out results
-    # TODO: Print results
 
 if __name__ == '__main__':
     main()
