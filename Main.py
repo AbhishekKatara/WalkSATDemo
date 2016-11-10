@@ -4,7 +4,7 @@ The algorithm is run on a randomly generated set of clauses.
 
 The clauses are generated according to command-line parameters
 
-@author: Matthew Wolff, Kristen Barrett
+@author: Matthew Wolff
 '''
 
 import logic
